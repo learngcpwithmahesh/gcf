@@ -1,0 +1,8 @@
+{
+  "name": "gcf-sendgrid",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/storage": "^1.6.0",
+    "@sendgrid/mail": "^6.4.0"
+  }
+}
